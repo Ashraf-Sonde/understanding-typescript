@@ -13,3 +13,4 @@ const printResult = true;
 const resultPhrase = "Result is: ";
 
 add(a, b, printResult, resultPhrase);
+// test commit
